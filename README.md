@@ -27,8 +27,6 @@ This system employs several agents working together:
 
 **Note**: the system simulates trading decisions, it does not actually trade.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/virattt?style=social)](https://twitter.com/virattt)
-
 ## Disclaimer
 
 This project is for **educational and research purposes only**.
@@ -58,7 +56,7 @@ By using this software, you agree to use it solely for learning purposes.
 
 Clone the repository:
 ```bash
-git clone https://github.com/virattt/ai-hedge-fund.git
+git clone https://github.com/bodhisilberling-2027/ai-hf.git
 cd ai-hedge-fund
 ```
 
@@ -99,7 +97,7 @@ FINANCIAL_DATASETS_API_KEY=your-financial-datasets-api-key
 
 2. Clone the repository:
 ```bash
-git clone https://github.com/virattt/ai-hedge-fund.git
+git clone https://github.com/bodhisilberling-2027/ai-hf.git
 cd ai-hedge-fund
 ```
 
